@@ -1,7 +1,11 @@
 name: telegram_app
 description: Telegram Web App for Bots on Flutter
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/morningstarsdev/telegram_app
+
+
+platforms:
+  web:
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
